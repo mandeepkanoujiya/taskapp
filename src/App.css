@@ -1,0 +1,11 @@
+.nav {
+  background-color: aliceblue;
+}
+.dropdown {
+  margin: 60px;
+  padding-right: 70%;
+  border-radius: 10px;
+}
+.delete {
+  background-color: red;
+}
